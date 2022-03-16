@@ -1,0 +1,12 @@
+body {
+    background-color:rgb(31, 22, 78);
+    font-family: 'Montserrat', sans-serif;
+    color: white ;
+}
+
+.card {
+    display:flex;
+    flex-direction: row;
+    flex-wrap:wrap;
+}
+
